@@ -48,6 +48,9 @@ The initial dataset contained 15,000 rows and 8 columns. Key cleaning steps incl
 
 Email dominates due to its efficiency and scalability, while Email + Call engages fewer customers but generates higher revenue per interaction.
 
+![1pro (1)](https://github.com/user-attachments/assets/f0ccfdb4-df24-4147-ad75-85d2d56e1270)
+
+
 ---
 
 ### **Revenue Spread**  
@@ -61,6 +64,8 @@ Email dominates due to its efficiency and scalability, while Email + Call engage
   - **Email**: Avg. revenue $97.1 (range: $78.8–$105).  
   - **Email + Call**: Avg. revenue $184.0 (range: $122–$238).  
 
+![Q2P1 (1)](https://github.com/user-attachments/assets/052875c2-dd4e-42d4-b899-ab934c9cf9d1)
+
 ---
 
 ### **Revenue Trends Over Time**  
@@ -68,6 +73,8 @@ Email dominates due to its efficiency and scalability, while Email + Call engage
   - **Email**: Stable revenue ($90–$100) with minimal variation.  
   - **Call**: Consistently low revenue ($40–$50).  
   - **Email + Call**: High revenue ($150–$190) with significant week-to-week variability.  
+
+![Q2p2 (1)](https://github.com/user-attachments/assets/81e40e56-2933-47b1-9761-075fe603c397)
 
 ---
 
@@ -103,6 +110,9 @@ The standalone Call method generates the lowest revenue and has poor time effici
   - Email: 49.7%  
   - Call: 34.3%  
   - Email + Call: 16.0%  
+
+![Q3 (1)](https://github.com/user-attachments/assets/a739b7e9-cb1c-4fdb-873e-11216395b4f6)
+
 
 ---
 
