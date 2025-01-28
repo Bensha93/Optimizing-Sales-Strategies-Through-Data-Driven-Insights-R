@@ -16,7 +16,8 @@ This project validates, cleans, and analyzes a dataset containing 15,000 rows of
 5. [Visualizations](#visualizations)  
 6. [How to Use](#how-to-use)  
 7. [Tools and Technologies](#tools-and-technologies)  
-8. [Future Enhancements](#future-enhancements)  
+8. [Future Enhancements](#future-enhancements)
+9. [Presentation preview](https://www.datacamp.com/datalab/w/c7abc379-99aa-45be-868f-fb402ffaf43c)) 
 
 ---
 
